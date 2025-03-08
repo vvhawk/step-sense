@@ -7,9 +7,9 @@
 StepSense is a mobile activity recognition system that processes smartphone sensor data to detect and count steps during different activities. The algorithms use accelerometer and gyroscope data to accurately identify walking patterns and stair climbing motions through a comprehensive data processing pipeline.
 
 ## Background
-- StepSense was undertaken as part of my [Mobile & Ubiquitous Computing](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing) course at [Georgia Tech](https://omscs.gatech.edu/) 🐝.
+- StepSense was undertaken as part of my [Mobile & Ubiquitous Computing](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing) course at [Georgia Tech](https://omscs.gatech.edu/) 🐝
 - I utilized the [phyphox](https://phyphox.org/download/) app to gather raw sensor data from my phone
-- 📝 View my [**Full Report**](https://docs.google.com/document/d/1cAkAZE22iwxLPBbcYhuWtymsFqoxvK5y/edit?usp=sharing&ouid=117646515362456696053&rtpof=true&sd=true).
+- 📝 View my [**Full Report**](https://docs.google.com/document/d/1cAkAZE22iwxLPBbcYhuWtymsFqoxvK5y/edit?usp=sharing&ouid=117646515362456696053&rtpof=true&sd=true)
 - 🐍 View my [**Python Notebook**](https://colab.research.google.com/drive/1KJaYBPsacuRYWozHNyUqYoJ9pR9mkmEE?usp=sharing)
 
 ## Features
