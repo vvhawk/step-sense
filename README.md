@@ -4,7 +4,7 @@
 </p>
 
 ## Overview
-StepSense is a mobile activity recognition system that processes smartphone sensor data to detect and count steps during different activities. The algorithm uses accelerometer and gyroscope data to accurately identify walking patterns and stair climbing motions through a comprehensive data processing pipeline.
+StepSense is a mobile activity recognition system that processes smartphone sensor data to detect and count steps during different activities. The algorithms use accelerometer and gyroscope data to accurately identify walking patterns and stair climbing motions through a comprehensive data processing pipeline.
 
 ## Background
 - StepSense was undertaken as part of my [Mobile & Ubiquitous Computing](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing) course at [Georgia Tech](https://omscs.gatech.edu/) 🐝.
@@ -21,7 +21,7 @@ StepSense is a mobile activity recognition system that processes smartphone sens
 - Visualization of motion patterns and detected steps
 - Adaptive thresholding to accommodate different movement styles
 
-# Implementation Details
+## Implementation Details
 - The system implements several signal processing techniques:
   - Vector magnitude calculation for orientation-independent analysis
   - Moving average filtering for noise reduction
@@ -29,7 +29,7 @@ StepSense is a mobile activity recognition system that processes smartphone sens
   - Temporal smoothing for consistent segmentation
   - Peak detection algorithms for accurate step counting
  
-# Technologies Used
+## Technologies Used
 - Python for implementation
 - NumPy and SciPy for numerical processing and signal analysis
 - Matplotlib for data visualization
